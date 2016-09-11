@@ -1,0 +1,15 @@
+{
+	"authors": [
+		"Alexey"
+	],
+	"name": "waitforconn",
+	"license": "proprietary",
+	"copyright": "Copyright © 2016, Alexey",
+	"description": "waitForConnectionClose test",
+	"dependencies": {
+		"vibe-d": "~>0.7.26"
+	},
+	"versions": [
+		"VibeDefaultMain"
+	]
+}
